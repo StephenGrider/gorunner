@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/prasmussen/glot-code-runner/cmd"
-	"github.com/prasmussen/glot-code-runner/language"
+	"github.com/stephengrider/gorunner/cmd"
+	"github.com/stephengrider/gorunner/language"
 	"io/ioutil"
 	"os"
 	"path/filepath"

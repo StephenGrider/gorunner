@@ -1,7 +1,7 @@
 package javascript
 
 import (
-	"github.com/prasmussen/glot-code-runner/cmd"
+	"github.com/stephengrider/gorunner/cmd"
 	"path/filepath"
 )
 
